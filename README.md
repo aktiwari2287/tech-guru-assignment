@@ -15,5 +15,4 @@ Infrastructure Microservices
 * Service Registration & Discovery Miroservice
 * API Gateway
 
-Application architecture
-![Application architeture]()
+![Application architeture](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/application-arch.png)
