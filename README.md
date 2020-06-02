@@ -14,5 +14,5 @@ Infrastructure Microservices
 * Global Configuration Microservice
 * Service Registration & Discovery Miroservice
 * API Gateway
-
-![Application architeture](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/application-arch.png)
+##Application architecture
+![Application architecture](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/application-arch.png)
