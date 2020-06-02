@@ -25,3 +25,7 @@ Deployment using docker
 
 CI-CD Pipeline
 ![cicd](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/cicd-final2.png)
+
+
+Eureka Service (List of all the microservices registered to eureka server)
+![Eureka Sevices](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/eureka-service.png)
