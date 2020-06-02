@@ -15,5 +15,13 @@ Infrastructure Microservices
 * Service Registration & Discovery Miroservice
 * API Gateway
 
+
 Application architecture
-![Application architeture]()
+
+![Application architecture](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/application-arch.png)
+
+Deployment using docker
+![docker registry](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/deploy.png)
+
+CI-CD Pipeline
+![cicd](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/cicd-final2.png)
