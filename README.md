@@ -19,3 +19,10 @@ Infrastructure Microservices
 Application architecture
 
 ![Application architecture](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/application-arch.png)
+
+CI-CD Pipeline
+
+![CI-CD] (https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/cicd-final2.png)
+
+Deployment using docker
+![using docker-registry](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/deploy.png)
