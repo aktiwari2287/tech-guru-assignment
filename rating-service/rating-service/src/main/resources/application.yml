@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: rating-service
+
+server:
+  port: 8307
+
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8302/eureka/
+  instance:
+    hostname: localhost
