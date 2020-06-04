@@ -21,4 +21,7 @@ zuul:
     price-service:
       path: /price-service/**
       url: http://localhost:8305
+    ui-service:
+      path: /ui-service/**
+      url: http://localhost:8301  
       
