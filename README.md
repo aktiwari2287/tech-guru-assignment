@@ -32,5 +32,5 @@ Eureka Service (List of all the microservices registered to eureka server)
 
 Hystrix dashboard for monitory of API failures and callbacks, we are using Hystrix Dashboard to display the matrix and using Turbine to collect the matrix from different microservices.
 
-![Hystix Dashboard] (https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/circuit_breaker.JPG)
+![Hystix Dashboard](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/circuit_breaker.JPG)
 
