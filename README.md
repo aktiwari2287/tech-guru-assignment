@@ -39,9 +39,9 @@ Monitoring Spring Boot application using Spring Boot Admin
 ![Spring Boot Admin](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/spring-boot-admin1.jpg)
 
 Running multiple UI-Services on different ports
-!(Spring Boot Admin)(https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/spring-boot-admin2.jpg)
+![Spring Boot Admin](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/spring-boot-admin2.jpg)
 
 Thread Dump and Memory usage
-!(Thread dump)(https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/spring-boot-admin3.jpg)
+![Thread dump](https://github.com/aktiwari2287/tech-guru-assignment/blob/master/problem-statements/spring-boot-admin3.jpg)
 
 
